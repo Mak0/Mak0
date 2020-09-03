@@ -17,6 +17,5 @@
 2. [Автоматизация тестирования REST API на Java](https://www.youtube.com/watch?v=bZE5hU5fZCY)
 3. [Автоматизация тестирования мобильных приложений](https://www.youtube.com/watch?v=i4PtLCUl8g8)
 4. [Test State Pattern](https://www.youtube.com/watch?v=e0VuZ-gsDSw)
-5. [QAGuild podcast: ПиSDET - не мешки ворочать в тестировании](https://www.youtube.
-com/watch?v=oLibRVPl1dw)
+5. [QAGuild podcast: ПиSDET - не мешки ворочать в тестировании](https://www.youtube.com/watch?v=oLibRVPl1dw)
 6. [Первый проект по автоматизации](https://www.youtube.com/watch?v=MjqKW_SqYUk)
