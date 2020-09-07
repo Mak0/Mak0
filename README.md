@@ -19,3 +19,4 @@
 4. [Test State Pattern](https://www.youtube.com/watch?v=e0VuZ-gsDSw)
 5. [QAGuild podcast: ПиSDET - не мешки ворочать в тестировании](https://www.youtube.com/watch?v=oLibRVPl1dw)
 6. [Первый проект по автоматизации](https://www.youtube.com/watch?v=MjqKW_SqYUk)
+7. [[Online Meetup] Event Sourcing at Wix: Problems and Solutions](https://www.youtube.com/watch?v=bjOlspQUJ6s)
