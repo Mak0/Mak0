@@ -1,5 +1,5 @@
 # Max Kolotilkin
-### Backend Engineer @ Wix | Scala, Java, Python, AWS, Google Cloud | Developer, Speaker, Trainer
+### Engineering Manager | DevOps Team Lead @ Sitecore | C#.Net, PowerShell, Azure | Developer, Speaker, Trainer
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white" />
