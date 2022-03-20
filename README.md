@@ -1,7 +1,9 @@
 # Max Kolotilkin
 ### Engineering Manager | DevOps Team Lead @ Sitecore | Manager, Developer, Speaker, Trainer
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white" /><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<br />
+
+<img src="https://img.shields.io/badge/powershell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white" /><img src="https://img.shields.io/badge/.net-512BD4.svg?&style=for-the-badge&logo=.net&logoColor=white" /><img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/ansible-ee0000.svg?style=for-the-badge&logo=ansible&logoColor=white" /><img src="https://img.shields.io/badge/terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" /><img src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white" /><img src="https://img.shields.io/badge/azure-0078D7.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 
 ### Articles
