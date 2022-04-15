@@ -1,4 +1,4 @@
-# Max Kolotilkin
+# Maksym Kolotilkin
 ### Engineering Manager | DevOps Team Lead @ Sitecore | Manager, Developer, Speaker, Trainer
 
 <br />
